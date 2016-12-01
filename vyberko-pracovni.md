@@ -1,12 +1,12 @@
 Česká pirátská strana  
 krajské sdružení Praha
 
-Výběrové řízení na krajského manažera
+Výběrové řízení na Admin. asistenta pro odbory
 ========================
 
 Ahoj!
 
-V pražském sdružení Pirátů hledáme **krajského manažera**, který bude mít na starosti administrativu a správu Pirátského centra celkem v rozsahu cca 20 hodin týdně (cca poloviční úvazek). Pokud sympatizuješ s Piráty, líbí se ti zásady průhledného hospodaření a chceš si trochu přivydělat, je tohle pro tebe ideální nabídka.
+V celostranickém vedení Pirátů hledáme **Manažera pro administrativu**, tedy člověka, který bude asistovat Pirátským odborům,zejména pak Administrativnímu. Pokud sympatizuješ s Piráty, administrativa ti nedělá problémy a rád vnášíš do chaosu řád, a zároveň si chceš i trochu přivydělat, je tohle pro tebe ta pravá nabídka. 
 
 ![Krajské sdružení Praha](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
 
@@ -14,8 +14,9 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 
 ## Poptávaná činnost
 
-**Úkoly krajského manažera** na regionální úrovni pro předsednictvo krajského sdružení:
+**Úkoly manažera pro administrativu** na regionální úrovni pro předsednictvo krajského sdružení:
 
+* administrativní agenda celostátního vedení (administrativního odboru, personálního odboru...., republikového výboru) 
 * správa členských přihlášek, 
 * správa žádostí o proplacení, 
 * pomoc s vedením jednání a zápisy,
