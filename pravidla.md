@@ -11,14 +11,14 @@ Pravidla výběrového řízení
 
    Kritérium | počet bodů
    --------- | ---------:
-   Celkový dojem | 20
+   Celkový dojem | 15
    Znalost a podpora Pirátského programu | 10
    Zkušenosti s dobrovolnickou činností | 5
-   Zkušenosti s administrativou | 20
+   Zkušenosti s administrativou | 25
    Písemný projev | 15 
    Práce s technickými systémy  | 15
    Plánování | 10
-   Znalost angličtiny | 5
+   
 
 Maximální počet bodů má obdržet kandidát, který zcela znamenitě splňuje předpoklady z dané oblasti. Nulový počet má obdržet kandidát, který předpoklady z dané oblasti pro danou pozici splňuje zcela nedostatečně.
 
