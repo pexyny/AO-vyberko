@@ -1,7 +1,7 @@
 Česká pirátská strana  
 krajské sdružení Praha
 
-Výběrové řízení na Admin. asistenta pro odbory
+Výběrové řízení na Manažera pro administrativu
 ========================
 
 Ahoj!
@@ -26,21 +26,16 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 * aktualizace webu,
 * dokumentace postupů.*
 
-Úkoly označené * budou prováděny též pro republikové předsednictvo, pokud se týkají sídla strany.
-
-**Úkoly správce Pirátského centra** v Pirátském centru, Řehořova 19, Praha 3: 
-
-* údržba centra v reprezentativním stavu včetně správy vybavení a úklidu (lze po dohodě zajistit jako subdodávku),
-* prodej triček, knížek a jiných předmětů a vedení skladové evidence,
-* zajišťování, vyhledávání a propagace akcí pro veřejnost, správa kalendáře, koordinace přístupů do centra s ohledem na časové dispozice jednotlivých členů s klíči (kdo kdy jak může otevřít a zavřít centrum).
 
 ## Nabízíme
 
-* Smlouvu na dobu neurčitou, s odměnou 7 až 8 tis. Kč měsíčně, odměňování nadstandardní kvality
-* Telefonní tarif s neomezeným voláním, doplatit si lze i data
+* smlouvu na dobu neurčitou, s odměnou 10 až 14 tis. Kč měsíčně (odměna dle kvality a náročnosti splněných úkolů)
+* Telefonní tarif s neomezeným voláním a internetem 1.5Gb na měsíc
 * Možnost podílet se na realizaci Pirátského programu
 * Práci se zastupiteli, senátory a představiteli strany i širokou a rozmanitou členskou základnou
+* práce ve skvělém kolektivu předních osobností Pirátů v České republice,
 * Seznámení s moderními technologiemi používanými při fungování Pirátské strany
+* nabídka je otevřená pro lidi z celé republiky, lze pracovat z domova; k činnosti lze využít některé Pirátské centrum po celé republice (podle dohody a aktuálních potřeb).
 
 ## Požadujeme
 
@@ -51,6 +46,10 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 * Manuální zručnost
 * Komunikační dovednosti, svědomitost a slušnost
 
+Výhodou jsou: schopnost pracovat v březnu až říjnu 2017 další čas (např. i 40 hodin týdně a více), zkušenosti s vlastním dobrovolnictvím, řidičský průkaz skupiny B, znalost angličtiny, zkušenosti s dobrovolnictvím, dobrý písemný projev.
+
+Podmínkou uzavření smlouvy je, aby daná osoba ještě neměla s Českou pirátskou stranou uzavřenou smlouvu s očekávaným rozsahem práce 20 hodin týdně a více (tj. aby v celku všechny smlouvy nepřesáhly 40 hodin týdně). 
+
 [program]: https://www.pirati.cz/program/start
 [forum]: https://forum.pirati.cz
 [redmine]: https://redmine.pirati.cz/
@@ -59,19 +58,19 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 
 V nabídce nám prosím zašli svůj životopis a pokud budeš chtít, případně i motivační dopis, reference a další materiály (abychom mohli posoudit tvoji spolehlivost a zkušenosti s obdobným typem práce). Pokud máš nedejbože záznam v trestním rejstříku, popiš ho a zdůvodni. Podrobnosti o výběrovém řízení si přečti v [pravidlech výběrového řízení](pravidla.md). Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky.
 
-Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md) s vykazováním v systémů [redmine][redmine].
+Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md) s vykazováním v systémů [redmine][redmine].
 
-**Nabídku nám prosím zašli do ........... *(bude doplněno do 16 dnů od vyhlášení)*, následující den do 12:00 se ti ozvu ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
+**Nabídku nám prosím zašli do ........... *(bude doplněno do 16 dnů od vyhlášení)*, následující den do 12:00 se ti ozvu ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <martin.kucera@pirati.cz>, kopii potom na <vyberka@pirati.cz>.**
 
 S pozdravem 
 
-Bc. Jan Loužek  
-zveřejňovač Pirátů v Praze  
-<jan.louzek@pirati.cz>, tel. 608 213 119
+Mgr. Martin Kučera  
+Vedoucí Administrativního odboru  
+<martin.kucera@pirati.cz>, tel. 778 702 711
 
 ----
 
 ## Související odkazy
 
 * [Pravidla výběrového řízení](pravidla.md)
-* [Schválené usnesení](usneseni.md) 
+
