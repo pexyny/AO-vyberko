@@ -1,5 +1,5 @@
 Česká pirátská strana  
-krajské sdružení Praha
+Administrativní odbor
 
 Výběrové řízení na Manažera pro administrativu
 ========================
@@ -10,7 +10,7 @@ V celostranickém vedení Pirátů hledáme **Manažera pro administrativu**, te
 
 ![Krajské sdružení Praha](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
 
-V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstruktivní a férové jednání. Tvým úkolem bude starat se o **byrokracii krajského sdružení a chod Pirátského centra** v Praze na Žižkově tak, abychom se my mohli soustředit na prosazování Pirátského programu. Tvým cílem bude, aby byla byrokracie dobře zdokumentovaná, rychlá, profesionální a vstřícná. 
+V našem Administrativním odboru usilujeme o dobrou atmosféru, otevřené, konstruktivní a férové jednání. Tvým úkolem bude starat se o **byrokracii odborů** tak, abychom se my mohli ostatní členové soustředit na prosazování Pirátského programu. Tvým cílem bude, aby byla byrokracie dobře zdokumentovaná, rychlá, profesionální a vstřícná. 
 
 ## Poptávaná činnost
 
@@ -29,7 +29,7 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 
 ## Nabízíme
 
-* smlouvu na dobu neurčitou, s odměnou 10 až 14 tis. Kč měsíčně (odměna dle kvality a náročnosti splněných úkolů)
+* smlouvu na dobu neurčitou 20h/týdně, s odměnou 10 až 14 tis. Kč měsíčně (odměna dle kvality a náročnosti splněných úkolů)
 * Telefonní tarif s neomezeným voláním a internetem 1.5Gb na měsíc
 * Možnost podílet se na realizaci Pirátského programu
 * Práci se zastupiteli, senátory a představiteli strany i širokou a rozmanitou členskou základnou
@@ -46,7 +46,7 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 * Manuální zručnost
 * Komunikační dovednosti, svědomitost a slušnost
 
-Výhodou jsou: schopnost pracovat v březnu až říjnu 2017 další čas (např. i 40 hodin týdně a více), zkušenosti s vlastním dobrovolnictvím, řidičský průkaz skupiny B, znalost angličtiny, zkušenosti s dobrovolnictvím, dobrý písemný projev.
+Výhodou jsou: schopnost pracovat v březnu až říjnu 2017 další čas (např. i 40 hodin týdně a více), zkušenosti s vlastním dobrovolnictvím, řidičský průkaz skupiny B, zkušenosti s dobrovolnictvím, dobrý písemný projev.
 
 Podmínkou uzavření smlouvy je, aby daná osoba ještě neměla s Českou pirátskou stranou uzavřenou smlouvu s očekávaným rozsahem práce 20 hodin týdně a více (tj. aby v celku všechny smlouvy nepřesáhly 40 hodin týdně). 
 
