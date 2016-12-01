@@ -6,25 +6,25 @@ Výběrové řízení na Manažera pro administrativu
 
 Ahoj!
 
-V celostranickém vedení Pirátů hledáme **Manažera pro administrativu**, tedy člověka, který bude asistovat Pirátským odborům,zejména pak Administrativnímu. Pokud sympatizuješ s Piráty, administrativa ti nedělá problémy a rád vnášíš do chaosu řád, a zároveň si chceš i trochu přivydělat, je tohle pro tebe ta pravá nabídka. 
+V celostranickém vedení Pirátů hledáme **Manažera pro administrativu**, tedy člověka, který bude asistovat Pirátským odborům, zejména pak administrativnímu. Pokud sympatizuješ s Piráty, administrativa ti nedělá problémy a rád vnášíš do chaosu řád, a zároveň si chceš i trochu přivydělat, je tohle pro tebe ta pravá nabídka.
 
 ![Krajské sdružení Praha](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
 
-V našem Administrativním odboru usilujeme o dobrou atmosféru, otevřené, konstruktivní a férové jednání. Tvým úkolem bude starat se o **byrokracii odborů** tak, abychom se my mohli ostatní členové soustředit na prosazování Pirátského programu. Tvým cílem bude, aby byla byrokracie dobře zdokumentovaná, rychlá, profesionální a vstřícná. 
+V našem administrativním odboru usilujeme o dobrou atmosféru, otevřené, konstruktivní a férové jednání. Tvým úkolem bude starat se o **byrokracii odborů** tak, abychom se my mohli ostatní členové soustředit na prosazování Pirátského programu. Tvým cílem bude, aby byla byrokracie dobře zdokumentovaná, rychlá, profesionální a vstřícná. 
 
 ## Poptávaná činnost
 
 **Úkoly manažera pro administrativu** na celostátní úrovni pro vedoucí odborů:
 
-* administrativní agenda celostátního vedení (administrativního odboru, personálního odboru...., republikového výboru) 
-* správa členských přihlášek, 
+* administrativní agenda celostátního vedení (administrativního odboru, personálního odboru...., republikového výboru)
+* správa členských přihlášek,
 * správa žádostí o proplacení, 
 * pomoc s vedením jednání a zápisy,
-* přebírání a procesování papírové pošty, správa datové schránky, komunikace s vedením, digitalizace dokumentů,*
-* vkládání doručených smluv do registru smluv,*
-* spisová služba a správa a údržba fyzického archivu smluv, dokumentů apod.*
+* přebírání a procesování papírové pošty, správa datové schránky, komunikace s vedením, digitalizace dokumentů,
+* vkládání doručených smluv do registru smluv,
+* spisová služba a správa a údržba fyzického archivu smluv, dokumentů apod.
 * aktualizace webu,
-* dokumentace postupů.*
+* dokumentace postupů.
 
 
 ## Nabízíme
@@ -40,10 +40,9 @@ V našem Administrativním odboru usilujeme o dobrou atmosféru, otevřené, kon
 ## Požadujeme
 
 * Filosofické ztotožnění se s [Pirátským programem][program]
-* Schopnost naučit se používat [Pirátský redmine][redmine] a [Pirátské fórum][forum] a další technické systémy
-* Zkušenosti s administrativou a dobrý písemný projev 
+* Schopnost naučit se používat [Pirátský redmine][redmine], [Pirátské fórum][forum] a [Pirátský github][github] a další technické systémy
+* Zkušenosti s administrativou a dobrý písemný projev
 * Časovou flexibilitu a schopnost rychle se dopravit do Pirátského centra 
-* Manuální zručnost
 * Komunikační dovednosti, svědomitost a slušnost
 
 Výhodou jsou: schopnost pracovat v březnu až říjnu 2017 další čas (např. i 40 hodin týdně a více), zkušenosti s vlastním dobrovolnictvím, řidičský průkaz skupiny B, zkušenosti s dobrovolnictvím, dobrý písemný projev.
@@ -65,7 +64,7 @@ Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) �
 S pozdravem 
 
 Mgr. Martin Kučera  
-Vedoucí Administrativního odboru  
+Vedoucí administrativního odboru  
 <martin.kucera@pirati.cz>, tel. 778 702 711
 
 ----
