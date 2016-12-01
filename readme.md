@@ -14,7 +14,7 @@ V našem Administrativním odboru usilujeme o dobrou atmosféru, otevřené, kon
 
 ## Poptávaná činnost
 
-**Úkoly manažera pro administrativu** na regionální úrovni pro předsednictvo krajského sdružení:
+**Úkoly manažera pro administrativu** na celostátní úrovni pro vedoucí odborů:
 
 * administrativní agenda celostátního vedení (administrativního odboru, personálního odboru...., republikového výboru) 
 * správa členských přihlášek, 
