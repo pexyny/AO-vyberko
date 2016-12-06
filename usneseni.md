@@ -14,9 +14,9 @@ Asistent pro administrativu s působností pro celou Českou republiku bude odpo
 Potřeba projektu
 --------------
 
-Záměr zřídit pozici Manažera pro administrativ na návrh vedoucího administrativního odboru. Svého asistenta pro administrativu již má krajské sdružení Praha (jednak krajského manažera a jednak v zastupitelském klubu), pozice se v Praze osvědčila – tyto zkušenosti je třeba přenést na celostátní úroveň zejména v souvislosti s  volbami a fungováním celostátních orgánů. Klíčem pro úspěch ve volbách je mimo jiné bezproblémová a rychlá administrativa. Velkou pozornost je však třeba věnovat tomu, aby nedocházelo k samoúčelnému bujení byrokracie, na což bude dohlížet republikové předsednictvo. Úkolem asistenta pro administrativu bude, aby ostatní pocítili nutnou byrokracii co nejméně nebo o ní nejlépe vůbec nevěděli. Předpokládá se, že část čínností (viz [inzerát](readme.md)) budou do budoucna zautomatizovány,pak dojde k přehodnocení pracovních povinností, eventuálně přehodnocení potřeby pacovní pozice.
+Záměr zřídit pozici Manažera pro administrativ na návrh vedoucího administrativního odboru. Svého asistenta pro administrativu již má krajské sdružení Praha (jednak krajského manažera a jednak v zastupitelském klubu), pozice se v Praze osvědčila – tyto zkušenosti je třeba přenést na celostátní úroveň zejména v souvislosti s  volbami a fungováním celostátních orgánů. Klíčem pro úspěch ve volbách je mimo jiné bezproblémová a rychlá administrativa. Velkou pozornost je však třeba věnovat tomu, aby nedocházelo k samoúčelnému bujení byrokracie, na což bude dohlížet republikové předsednictvo. Úkolem asistenta pro administrativu bude, aby ostatní pocítili nutnou byrokracii co nejméně nebo o ní nejlépe vůbec nevěděli. Předpokládá se, že část čínností (viz [inzerát](readme.md)) budou do budoucna zautomatizovány, pak dojde k přehodnocení pracovních povinností, eventuálně přehodnocení potřeby pacovní pozice.
  
-Dne 12. 9. 2016 uzavřelo republikové předsednictvo smlouvu s  asistententem pro administrativu. Avšak tohoto asistenta republikové předsednictvo využívá naplno a nebývá mnoh prostoru pro využitíjeho sužeb administrativním odorem. Asistent bude sloužit zejména administrativnímu odboru (okrskové volební komise, sledování termínů, pomoc při správě technických systému v gesci AO). Jelikož docházík ukončení pozice Krajského manažera v Praze, který měl na starosti i fyzický archív a pod. přejde pod něj část činností tohoto manažera. Bude financován z příslušné položky rozpočtu. Předpokládaný rozsah práce je poloviční úvazek. Podmínky výběrového řízení budou vycházet z výběrového řízení na asistenta pro adminstrativu a administrativu zprocesuje Vedoucí AO. Vedoucí Administrativního odboru navrhuje složení výběrového týmu ve složen, Martin Kučera, Vojtěch Pikal, Alex Mansurov, Bára Hrůzová 
+Dne 12. 9. 2016 uzavřelo republikové předsednictvo smlouvu s  asistententem pro administrativu. Avšak tohoto asistenta republikové předsednictvo využívá naplno a nebývá mnoh prostoru pro využitíjeho sužeb administrativním odborem. Asistent bude sloužit zejména administrativnímu odboru (okrskové volební komise, sledování termínů, pomoc při správě technických systému v gesci AO). Jelikož dochází k ukončení pozice Krajského manažera v Praze, který měl na starosti i fyzický archív a pod. přejde pod něj část činností tohoto manažera. Bude financován z příslušné rozpočtové položky administrativního odboru. Předpokládaný rozsah práce je poloviční úvazek. Podmínky výběrového řízení budou vycházet z výběrového řízení na asistenta pro adminstrativu a provede jej vedoucí administrativního odboru. Vedoucí administrativního odboru navrhuje složení výběrové komise ve složen, Martin Kučera, Vojtěch Pikal, Alex Mansurov, Bára Hrůzová 
 
 Rozpočet projektu
 -----------------
@@ -36,7 +36,7 @@ Při celoroční činnosti asistenta pro administrativu se potom bude jednat o c
 
 Položka | Částka (tis. Kč)
 --- | ----:
-**Náklady celkem**  | **168**
+**Náklady celkem**  | **173**
 – smluvní odměna asistenta pro administrativu |	  168
 – náklady na telefon	|	  5
 **Financování** | **173**
@@ -64,12 +64,12 @@ Výběrové řízení na manažera pro administrativu
 ----------------
 
 Součástí záměru je jedno výběrové řízení nad 50 000 Kč.
-Zadavatelem je administrativní odbor, který bude po formální stránce zastupovat Martin . Hodnotící komise výběrového řízení bude fungovat ve složení: 
+Zadavatelem je administrativní odbor, který bude po formální stránce zastupovat Martin Kučera. Hodnotící komise výběrového řízení bude fungovat ve složení: 
 
 * Martin Kučera (vedoucí administrativního odboru),
 * Bára Hrůzová (zástupkyně vedoucího personálního odboru)  
 * Vojtěch Pikal (místopředseda strany)
-* Alex Mansurov (zástupce Republikového výboru).
+* Alex Mansurov (zástupce republikového výboru).
 
 Ve jmenované hodnotící komisi by měli být podle [§ 6 odst. 2 pravidel hospodaření](https://www.pirati.cz/rules/prah#vyberova_rizeni) aspoň 3 odborníci, což je splněno, neboť všichni jmenovaní jsou ve své oblasti činnosti odborně způsobilí (zkušení administrátoři, členka personálního odboru se zkušenostmi v dané oblasti).
 
