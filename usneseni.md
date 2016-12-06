@@ -27,7 +27,7 @@ Střední roční náklady činí 120 tis. Kč (z rozpočtu administrativního o
 
 Dopad na rozpočet 2016:
 
-V roce 2016 při předpokladu nástupu k 15. 1. 2017 tedy nebudou vyčerpány všechny rozpočtené prostředky z položky administrativního odboru. V roce 2017 jde o částku cca 150 tis. Kč, která bude hrazena z rozpočtu administrativníhho odboru Pirátské strany (viz níže). V prvním roce tedy nebudou vyčerpány všechny rozpočtené prostředky z položky administrativního odboru z důvodu zpoždění záměru. 
+V roce 2016 při předpokladu nástupu k 15. 1. 2017 tedy nebudou vyčerpány žádné rozpočtené prostředky z položky administrativního odboru. V roce 2017 jde o částku cca 190 tis. Kč, která bude hrazena z rozpočtu administrativníhho odboru Pirátské strany (viz níže). V prvním roce tedy nebudou vyčerpány všechny rozpočtené prostředky z položky administrativního odboru z důvodu zpoždění záměru. 
 
 Dlouhodobý výhled:
 
@@ -40,11 +40,11 @@ Položka | Částka (tis. Kč)
 – smluvní odměna asistenta pro administrativu |	  168
 – náklady na telefon	|	  5
 **Financování** | **173**
-– rozpočet administrativního odboru [212600003][podbor] |	190
+– rozpočet administrativního odboru [212600004][podbor] (položka bude zřízena v rámci rozpočtu 2017) |	190
 
 Skutečná hodnota odměn může být vyšší i nižší, protože se odvíjí od skutečné odměny. Maximální hodnota odměny je 168 tis. Kč ročně + 5 tis. Kč ročně telefon + rezerva na nečekané související výdaje, což dává částku 190 tis. Kč ročně, kterou navrhujeme stanovit celkové náklady záměru za každý rok (odpovídá dané rozpočtové položce). Za podmínek uvedených ve vnitřních předpisech může být schválena i mimořádná odměna (např. při přesčasech či splnění mimořádně náročného úkolu, které by vedly k jednorázovému zvýšení odměny nad dohodnuté měsíční rozmezí).
 
-[podbor]: https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/212600003
+[podbor]: https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/212600004
 
 Z hlediska vnitrostranických předpisů se jedná o jeden záměr v rozpočtové jednotce Česká pirátská strana ([§ 10 pravidel hospodaření][prah]), který se schvaluje na dobu neurčitou s náklady určenými měsíční odměnou. 
 
