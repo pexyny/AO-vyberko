@@ -21,7 +21,7 @@ Dne 12. 9. 2016 uzavřelo republikové předsednictvo smlouvu s  asistententem p
 Rozpočet projektu
 -----------------
 
-Střední roční náklady činí 120 tis. Kč (z rozpočtu administrativního odboru Pirátské strany) při měsíční smluvní odměně cca 10 tis. Kč v pevné složce (nárokovatelné poměrně vzhledem k rozsahu práce) a až 4 tis. Kč úkolové odměny (odhadována střední částka 2000 Kč). Jde tedy o podobný systém odměňování jako u celopražských Pirátských zastupitelů (viz [metodika][metodika]).
+Střední roční náklady činí 144 tis. Kč (z rozpočtu administrativního odboru Pirátské strany) při měsíční smluvní odměně cca 10 tis. Kč v pevné složce (nárokovatelné poměrně vzhledem k rozsahu práce) a až 4 tis. Kč úkolové odměny (odhadována střední částka 2000 Kč). Jde tedy o podobný systém odměňování jako u celopražských Pirátských zastupitelů (viz [metodika][metodika]).
 
 [metodika]: https://redmine.pirati.cz/projects/kspraha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD 
 
