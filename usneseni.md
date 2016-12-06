@@ -98,8 +98,8 @@ Republikové předsednictvo
 
 Republikový výbor
 
-1. **bere na vědomí** předložené dokumenty k záměru najmout asistenta pro administrativu,
-2. **souhlasí** se záměrem najmout asistenta pro administrativu,
+1. **bere na vědomí** předložené dokumenty k záměru najmout manažera pro administrativu,
+2. **souhlasí** se záměrem najmout manažera pro administrativu,
 3. **souhlasí** s náklady na tento záměr ve výši 190 tis. Kč ročně.
 
 
