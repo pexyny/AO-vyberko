@@ -36,10 +36,10 @@ Při celoroční činnosti asistenta pro administrativu se potom bude jednat o c
 
 Položka | Částka (tis. Kč)
 --- | ----:
-**Náklady celkem**  | **144**
-– smluvní odměna asistenta pro administrativu |	  114
+**Náklady celkem**  | **168**
+– smluvní odměna asistenta pro administrativu |	  168
 – náklady na telefon	|	  5
-**Financování** | **119**
+**Financování** | **173**
 – rozpočet administrativního odboru [212600003][podbor] |	190
 
 Skutečná hodnota odměn může být vyšší i nižší, protože se odvíjí od skutečné odměny. Maximální hodnota odměny je 168 tis. Kč ročně + 5 tis. Kč ročně telefon + rezerva na nečekané související výdaje, což dává částku 190 tis. Kč ročně, kterou navrhujeme stanovit celkové náklady záměru za každý rok (odpovídá dané rozpočtové položce). Za podmínek uvedených ve vnitřních předpisech může být schválena i mimořádná odměna (např. při přesčasech či splnění mimořádně náročného úkolu, které by vedly k jednorázovému zvýšení odměny nad dohodnuté měsíční rozmezí).
