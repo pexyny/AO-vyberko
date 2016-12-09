@@ -1,41 +1,40 @@
 Česká pirátská strana  
 Administrativní odbor
 
-Výběrové řízení na Manažera pro administrativu
+Výběrové řízení na Asistenta odborů pro administrativu
 ========================
 
 Ahoj!
 
-V celostranickém vedení Pirátů hledáme **Manažera pro administrativu**, tedy člověka, který bude asistovat Pirátským odborům, zejména pak administrativnímu. Pokud sympatizuješ s Piráty, administrativa ti nedělá problémy a rád vnášíš do chaosu řád, a zároveň si chceš i trochu přivydělat, je tohle pro tebe ta pravá nabídka.
+V celostranickém vedení Pirátů hledáme **Asistenta odborů pro administrativu**, tedy člověka, který bude asistovat Pirátským odborům, zejména pak administrativnímu. Pokud sympatizuješ s Piráty, administrativa ti nedělá problémy a rád vnášíš do chaosu řád, a zároveň si chceš i trochu přivydělat, je tohle pro tebe ta pravá nabídka.
 
 ![Krajské sdružení Praha](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
 
-V našem administrativním odboru usilujeme o dobrou atmosféru, otevřené, konstruktivní a férové jednání. Tvým úkolem bude starat se o **byrokracii odborů** tak, abychom se my mohli ostatní členové soustředit na prosazování Pirátského programu. Tvým cílem bude, aby byla byrokracie dobře zdokumentovaná, rychlá, profesionální a vstřícná. 
+V našem administrativním odboru usilujeme o dobrou atmosféru, otevřené, konstruktivní a férové jednání. Tvým úkolem bude starat se o **byrokracii odborů** tak, aby se ostatní členové mohli soustředit na prosazování Pirátského programu. Tvým cílem bude, aby byla byrokracie dobře zdokumentovaná, rychlá, profesionální a vstřícná. 
 
 ## Poptávaná činnost
 
-**Úkoly manažera pro administrativu** na celostátní úrovni pro vedoucí odborů:
+**Úkoly asistenta odborů pro administrativu** na celostátní úrovni pro vedoucí odborů:
 
 * administrativní agenda celostátního vedení (administrativního odboru, personálního odboru...., republikového výboru)
-* správa členských přihlášek,
 * správa žádostí o proplacení, 
 * pomoc s vedením jednání a zápisy,
 * přebírání a procesování papírové pošty, správa datové schránky, komunikace s vedením, digitalizace dokumentů,
 * vkládání doručených smluv do registru smluv,
-* spisová služba a správa a údržba fyzického archivu smluv, dokumentů apod.
-* aktualizace webu,
+* spisová služba a správa a údržba fyzického archivu smluv, dokumentů apod.,
+* aktualizace vnitrostranického webu,
 * dokumentace postupů.
 
 
 ## Nabízíme
 
-* smlouvu na dobu neurčitou 20h/týdně, s odměnou 10 až 14 tis. Kč měsíčně (odměna dle kvality a náročnosti splněných úkolů)
+* Smlouvu na dobu neurčitou o rozsahu cca 20 h týdně, s odměnou 9 až 14 tis. Kč měsíčně (odměna dle kvality a náročnosti splněných úkolů)
 * Telefonní tarif s neomezeným voláním a internetem 1.5Gb na měsíc
 * Možnost podílet se na realizaci Pirátského programu
 * Práci se zastupiteli, senátory a představiteli strany i širokou a rozmanitou členskou základnou
-* práce ve skvělém kolektivu předních osobností Pirátů v České republice,
+* Práci ve skvělém kolektivu předních osobností Pirátů v České republice,
 * Seznámení s moderními technologiemi používanými při fungování Pirátské strany
-* nabídka je otevřená pro lidi z celé republiky, lze pracovat z domova; k činnosti lze využít některé Pirátské centrum po celé republice (podle dohody a aktuálních potřeb).
+* Nabídka je otevřená pro lidi z celé republiky, lze pracovat z domova; k činnosti lze využít některé Pirátské centrum po celé republice (podle dohody a aktuálních potřeb).
 
 ## Požadujeme
 
